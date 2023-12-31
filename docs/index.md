@@ -7,24 +7,27 @@
 
 I'm Kyle and what really butters my buns finding and building solutions through automation to help others focus on things they care about. I'm passionate about empowering others and ensuing that these solutions are accessible. I like to work in small increments and get feedback early.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
 
+---
+
 ## What I believe
+### *Developer Accessibility*
+For each unique project, there is a unique team of people.  Each person bringing their own experiences and skill set. I have worked with interns only 2 years into a degree and grey beards who were there at the beginning. In the following project I've implemented several different strategies and landed on a few core bits I aim for. 
+
+### *Pit of success mindset*
+When design solutions or tools, aim to make doing the right thing the easiest option.  
+
+### *Time to hitting the first breakpoint*
+A developers time is precious and, as a person who struggles to focus at times, tenuous. I want me and my developers to be able start digging into a problem and getting feedback as soon as possible. 
+
+### *Empower everyone to be a developer*
+
+### *Right tool for the job*
+
+---
+## Projects / What have I been up to
 
 Mainly bouncing around a Corporate IT for the last 9 years, contributing to different projects as needed. Some of the them are listed below. 
 
-### Developer Accessibility
-For each unique project, there is a unique team of people.  Each person bringing their own experiences and skill set. I have worked with interns only 2 years into a degree and grey beards who were there at the beginning. In the following project I've implemented several different strategies and landed on a few core bits I aim for. 
-
-#### Pit of success mindset
-When design solutions or tools, aim to make doing the right thing the easiest option.  
-
-#### Time to hitting the first breakpoint
-A developers time is precious and, as a person who struggles to focus at times, tenuous. I want me and my developers to be able start digging into a problem and getting feedback as soon as possible. 
-
-#### Empower everyone to be a developer
-
-#### Right tool for the job
-
-## Projects
 TODO: These need to be boiled down. 
 - What was the key points, things you did and how you did them. 
 - What didn't go well, What did, 
@@ -48,6 +51,8 @@ Falcon2 we built off a few key guiding principals.
 
 
 ### Digital Marketplace
-
-
 ## Tools I use
+
+## About me
+
+A little about me.
