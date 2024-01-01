@@ -7,52 +7,81 @@
 
 I'm Kyle and what really butters my buns finding and building solutions through automation to help others focus on things they care about. I'm passionate about empowering others and ensuing that these solutions are accessible. I like to work in small increments and get feedback early.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
 
----
 
-## What I believe
-### *Developer Accessibility*
-For each unique project, there is a unique team of people.  Each person bringing their own experiences and skill set. I have worked with interns only 2 years into a degree and grey beards who were there at the beginning. In the following project I've implemented several different strategies and landed on a few core bits I aim for. 
-
-### *Pit of success mindset*
-When design solutions or tools, aim to make doing the right thing the easiest option.  
-
-### *Time to hitting the first breakpoint*
-A developers time is precious and, as a person who struggles to focus at times, tenuous. I want me and my developers to be able start digging into a problem and getting feedback as soon as possible. 
-
-### *Empower everyone to be a developer*
-
-### *Right tool for the job*
-
----
 ## Projects / What have I been up to
 
-Mainly bouncing around a Corporate IT for the last 9 years, contributing to different projects as needed. Some of the them are listed below. 
+Currently I'm the Lead Senior Software Engineer in the Developer Services group for 3M Platform Engineering.  *Ok, But what does that actually mean?* In practicality I do all sorts. Some days I'm neck deep writing code for our next feature, others I'm illustrating the visions for the next generation of tooling for 3M's software teams, some I'm managing a leading a team to make those visions a reality, and more frequently growing individual team members.  All while applying the Company's values, as well as my own to the solutions. 
 
-TODO: These need to be boiled down. 
-- What was the key points, things you did and how you did them. 
-- What didn't go well, What did, 
+- Everyone can and should write code.
+- Actively cast consumers of my products into the Pit of Success
+- Make the solutions built a joy to work in
 
-### Construct Library
-The problem this project aimed to solve was ever increasing complexity of requirements to run an AWS resource in a company way.  The solution that was build is what we call the construct library and was a means to cast a developer into a pit of success. Using the [AWS Cloud Developer Kit](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html), a, infrastructure as Code library, as our based,  we extended the resources definitions to include the 3M defaults. That way when you define an S3 bucket in you IAC, then you get one that prebaked with all the company defaults and the developer gets their bucket. So instead of focusing on making sure the they have the right tags, they can get back to their own work. 
+Over the past few years I've had the opportunity to work on several projects. These include: 
 
-I've handled this project from the prototype I created, to leading the a dev team to build it out, to driving it's adoption.  The library is primarily written in Typescript, the native language of AWS CDK and made it available as a NPM package through the internal GitHub Packages offering. 
-
-Later, I architected and lead the team to implement solution based constructs.  Instead of a single compliant by default resource, a developer could get a suite of resources. The first solution construct we delivered was a basic full stack web application.  I loving refereed to it as the Vanilla Web App because it's as basic as it gets. 
-
-### Falcon2
-Before we talk about Falcon2 we must first understand Falcon.  Falcon is a suite of tools created to accelerate my company's DevOps journey to AWS and it succeed. It was a custom solution built that solved a lot of problems for the organization in the beginning. But with all things, cracks start to show. It was built on top of a self hosted CI/CD pipeline tool that is expensive be to maintained.  It's approach to cross account access is questionable. It was fundimentally a prototype that made it into production, but it was time for a rework. 
-
-Falcon2 we built off a few key guiding principals. 
-- Simplify the developer experience.  Get them in, get them what they need, and let them move on. 
-- Apply Guardrails to the risky deployable resources.
-- Securely provisions resources.
-- Simplify by using Github Actions SAS offering over self hosted solution.   
+- Supporting internal, purchased tools with thousands of users
+- Developing customer facing applications
+- Leading a team in creating automation and libraries to ease pain for other developers.
 
 
+Most recently I've been working to relieve pain and accelerate other dev team in 3M.  Each project required that I quickly ramp up on the new tools and technologies.  The basic patten I would follow would be to setup a POC/POV, design the product architecture, build the breakdown of stories to be completed, and finally divvy out and guide a team to complete the work.  In 2023 that involved 3 main solutions. 
 
-### Digital Marketplace
-## Tools I use
+- Prototype, architect, and own the next generation of DevOps practices applied to product development teams. 
+- Lead and contribute to a library of reusable, compliant by default cloud constructs 
+- Automation to accelerate adoption of security tooling and make it as easy as possible for identified vulnerabilities to be connected with the developers best equipped to address them 
+
+Frankly, my intention with this page is to serve as a catalyst for a conversation.  Below are some of the technologies I've been recently using and some ways I've applied them. 
+
+**Cloud providers**
+
+- AWS 
+- Azure
+
+**DevOps:**
+
+- AWS Cloud Developer Kit / AWS Cloud Formation
+- Github Actions - SAS Automation tooling
+- Drone CI - Docker based Automation pipeline
+- Wiz.io - Cloud Vulnerability Risk management hub 
+- Checkov - IAC policy automation
+
+**Dev Tools**
+
+- Dev Containers - Ask me about these. To  
+- Github Actions 
+- Jira
+- MKdocs
+- [Excalidraw](./assets/Falcon2LifeOfDeveloper.png)
+
+**Languages**
+
+- C# .NET - butters my biscuits
+- TypeScript / Javascript
+- Python
+
+**Web Frameworks:**
+
+- React 
+- Vue
+- Blazor
+
+**Databases**
+
+- DynamoDb - NoSql Database
+- MS SQL Server - Sql Database
+
+Finally, I do have my AWS Certified Cloud Practitioner certification.
+
+## My goals
+
+My current goals I have set for myself is to be in a position to make an impact. I get my kicks on solving problems. Nothing gets me more jazzed then when I can see how some solution I created or had a part of makes their life better.  More recently in my career my time has been increasingly spent talking to folks about getting things done than actually acting.  
+
+Other more concrete goals are to obtain my Certified Information Systems Security Professional and Certified Cloud Security Professional Certifications. These will help to demonstrate the knowledge I've built from years in the industry while also finding the gaps in my knowledge.  
 
 ## About me
 
-A little about me.
+I'm live White Bear Lake Minnesota with my wife, 2 cats, and dog. Lindsay, Mendle, Ruby, and Zero.  I'm originally from Clare MI, and went to college at Central Michigan University. There I earned my undergrad in Business Information Systems with a minor in IT. There I landed an Internship at 3M, got a job offer, and there I be. 
+
+In my free time I like to play video games with my childhood friends, now strewn across the country, but more recently I've taken up game development as a creative outlet.  Less frequently than I'd like, I also enjoy back packing and the yearly dirt bike trip to Michigan Upper Peninsula.  Finally with what ever time I have left, I am working on house projects.  Because there are always house projects to be done. 
+
+![Image title](./assets/LindsayKyleIsleRoyal.png){ align=right width="300" }
+![Image title](./assets/MendleRuby.png){ align=left width="300" }
