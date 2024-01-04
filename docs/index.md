@@ -92,7 +92,7 @@ A goal I have set for myself is to be in a position to make an impact. I get my 
 
 Other more concrete goals are to obtain my Certified Information Systems Security Professional (CISSP) and Certified Cloud Security Professional (CSSP) Certifications. These will help to demonstrate the knowledge I've built from years in the industry while also finding the gaps in my knowledge.  
 
-## About me
+## Personal life
 
 I'm live White Bear Lake Minnesota with my wife, 2 cats, and dog. Lindsay, Mendle, Ruby, and Zero.  I'm originally from Clare MI, and went to college at Central Michigan University. There I earned my undergrad in Business Information Systems with a minor in IT. There I landed an Internship at 3M, got a job offer, and there I be. 
 
