@@ -5,20 +5,19 @@
 
 ## Hi There!
 
-I'm Kyle and what really butters my buns finding and building solutions through automation to help others focus on things they care about. I'm passionate about empowering others and ensuing that these solutions are accessible. I like to work in small increments and get feedback early.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
-
+I'm Kyle and what really butters my buns is finding and building solutions through automation to help others focus on things they care about. I'm passionate about empowering others and ensuing that these solutions are accessible. I like to work in small increments and get feedback early.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
 
 ## Projects / What have I been up to
 
-Currently I'm the Lead Senior Software Engineer in the Developer Services group for 3M Platform Engineering.  
+Currently, I'm the Lead Senior Software Engineer in the Developer Services group for 3M Platform Engineering.  
 *Ok, But what does that actually mean?*  
  In practicality I do all sorts. Some days I'm neck deep writing code for our next feature, others I'm illustrating the visions for the next generation of tooling for 3M's software teams. Other days, I'm leading a diverse team to make those visions a reality, and more frequently find ways for those individuals to reach their professional goals.  All while applying the Company's values, as well as my own to the solutions. 
 
 - Everyone can and should write code.
-- Actively cast consumers of my solutions into the pit of success.
-- Right tool for the job.
+- Actively cast users into the pit of success.
+- Use right tool for the job.
 
-Most recently I've been working to relieve pain and accelerate developer teams in 3M.  Each project required that I quickly ramp up on the new tools and technologies.  The basic patten I would follow would be to setup a POC/POV, design the product architecture, build the breakdown of stories to be completed, and finally divvy out and guide a team to complete the work.  In 2023 that involved 3 main solutions. 
+most recently, I've been working to relieve pain and accelerate developer teams in 3M.  Each project required that I quickly ramp up on the new tools and technologies.  The basic patten I would follow would be to setup a POC/POV, design the product architecture, build the breakdown of stories to be completed, and finally divvy out and guide a team to complete the work.  In 2023 that involved 3 main solutions. 
 
 - Prototype, architect, and own the next generation of DevOps practices used by dozens of development teams. 
 - Lead and contribute to a library of reusable, compliant by default, cloud constructs 
