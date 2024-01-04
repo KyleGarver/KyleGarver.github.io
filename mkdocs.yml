@@ -1,4 +1,4 @@
-site_name: Kyle Garver - Dingus llc
+site_name: Kyle Garver
 theme:
   name: material
 markdown_extensions:
@@ -7,3 +7,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - glightbox:
+      zoomable: true

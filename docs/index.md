@@ -1,4 +1,4 @@
-# Kyle Garver
+# About me
 *I have lots of ideas; they just can't all be bangers*
 
 ![Image title](./assets/me.webp){ align=left width="350" }
@@ -82,9 +82,9 @@ AWS Certified Cloud Practitioner
 ---
 
 **Some visuals I'm proud of, Let's talk about them**
-![Day in the life vision](./assets/Falcon2LifeOfDeveloper.png)
+![Day in the life vision](./assets/Falcon2LifeOfDeveloper.png){ loading=lazy }
 
-![Complex infra](./assets/Falcon2PipeAuthInfra.png)
+![Complex infra](./assets/Falcon2PipeAuthInfra.png){ loading=lazy }
 
 
 ## My goals
@@ -99,5 +99,5 @@ I'm live White Bear Lake Minnesota with my wife, 2 cats, and dog. Lindsay, Mendl
 
 In my free time I like to play video games with my childhood friends, now strewn across the country, but more recently I've taken up game development as a creative outlet.  Less frequently than I'd like, I also enjoy back packing and the yearly dirt bike trip to Michigan Upper Peninsula.  Finally with what ever time I have left, I am working on house projects.  Because there are always house projects to be done. 
 
-![Kyle and Lindsay](./assets/LindsayKyleIsleRoyal.png){ align=right width="350" }
-![Mendle and Ruby](./assets/MendleRuby.png){ align=left width="350" }
+![Kyle and Lindsay](./assets/LindsayKyleIsleRoyal.png){ align=right width="350" loading=lazy }
+![Mendle and Ruby](./assets/MendleRuby.png){ align=left width="350" loading=lazy }
