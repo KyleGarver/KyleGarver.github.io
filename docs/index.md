@@ -1,5 +1,9 @@
 # About me
-*I have lots of ideas; they just can't all be bangers*
+
+Phone: (989) 429-6968  
+Email: garverkr@gmail.com
+
+*I have lots of ideas - they just can't all be bangers.*
 
 ![Image title](./assets/me.webp){ align=left width="350" }
 
@@ -7,13 +11,15 @@
 
 Frankly, my intention with this page is to serve as a catalyst for a conversation.
 
-Finding and building solutions through automation to help others focus on things they care about. I'm passionate about empowering others and ensuring that these solutions are accessible. Through small increments, I get feedback early and apply that to the next iterate.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
+Finding and building solutions through automation to help others focus on things they care about is what gets me exited. I'm passionate about empowering others and ensuring that these solutions are accessible. Through small increments, I get feedback early and apply that to the next iterate.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
 
 ## Projects / What have I been up to
 
 Currently, I'm the Lead Senior Software Engineer in the Developer Services group for 3M Platform Engineering.  
-*Ok, but what does that actually mean?*  
-In practicality, I do all sorts. Some days I'm neck deep writing code for our next feature, others I'm illustrating the visions for the next generation of tooling for 3M's software teams. Other days, I'm leading a diverse team to make those visions a reality, and more frequently find ways for those individuals to reach their professional goals.  All while applying the Company's values, as well as my own to the solutions. 
+
+*Ok, but what does that actually mean?*
+
+In practicality, I do all sorts. Some days I'm neck deep writing code for our next feature, others days I'm architecting the visions for the next generation of tooling for 3M's software teams.  I lead a diverse team to make those visions a reality, and more recently finding ways for those individuals to reach their professional goals.  All while applying the Company's values, as well as my own to the solutions. 
 
 - Everyone can and should write code.
 - Actively cast into the pit of success. ( Need to reword to better fit in with the others)
@@ -23,16 +29,12 @@ Most recently, I've been working to remove friction and accelerate developer tea
 
 - Prototype, architect, and own the next generation of DevOps practices used by dozens of development teams. 
 - Lead and contribute to a library of reusable, compliant by default, cloud constructs. 
-- Automation to accelerate adoption of security tooling and make it as easy as possible for identified vulnerabilities to be connected with the developers best equipped to address them.
+- Automate and accelerate adoption of security tooling and make it as easy as possible for identified vulnerabilities to be connected with the developers best equipped to address them.
 
 But none of this work was done in a vacuum or by myself.  Today, I serve as the technical leader of a team of 7 developers, each at a different point in their career.  A few of them have been in the industry for 15+ years, who I often seek out for "sniff tests" to make sure the bits I'm coming up with aren't complete shit. We recently had an individual join our team in the middle of a career change who is new to software development. Their grit to learn everyday is inspirational, and their journey is a great test of my conviction that anyone can code and the tools we create should be intuitive as possible. Outside of my immediate team, I work with my direct manager and other leaders to mesh our priorities with theirs. This means frequently having challenging conversations to reevaluate the status quo and push for modern solutions.
 
 ## Tools and other bits
-
-Below are some of the technologies I've been recently using and some ways I've applied them.
-- reword this
-
-These are the tools I use frequently but certainly isn't an exhastive list. . . . 
+These are the tools I use frequently use but certainly is not an exhaustive list. 
 
 **Cloud providers**
 
@@ -84,7 +86,8 @@ These are the tools I use frequently but certainly isn't an exhastive list. . . 
 AWS Certified Cloud Practitioner
 ---
 
-**Some visuals I'm proud of, Let's talk about them**
+**Some visuals I'm proud of, that showcase some ways I like to breakdown and communicate information.**
+
 ![Day in the life vision](./assets/Falcon2LifeOfDeveloper.png){ loading=lazy }
 
 ![Complex infra](./assets/Falcon2PipeAuthInfra.png){ loading=lazy }
