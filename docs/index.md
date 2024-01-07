@@ -11,7 +11,7 @@ Email: garverkr@gmail.com
 
 Frankly, my intention with this page is to serve as a catalyst for a conversation.
 
-Finding and building solutions through automation to help others focus on things they care about is what gets me exited. I'm passionate about empowering others and ensuring that my solutions are accessible. Through small increments, I get feedback early and apply that to the next iterate.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
+Finding and building solutions through automation to help others focus on things they care about is what gets me exited. I'm passionate about empowering others and ensuring that my solutions are accessible. Through small increments, I get feedback early and apply that to the next iteration.  I'm not afraid to try something and throw it out if it isn't the right solution.  They can't all be bangers after all.
 
 ## Projects / What have I been up to
 
