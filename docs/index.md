@@ -103,7 +103,7 @@ Other more concrete goals are to obtain my Certified Information Systems Securit
 
 I live White Bear Lake, Minnesota with my wife (Lindsay), two cats (Mendel, Ruby), and dog (Zero). I'm originally from Clare, MI and went to college at Central Michigan University. There I earned my undergrad in Business Information Systems with a minor in IT, landed an internship at 3M, and a job offer. 
 
-In my free time I enjoy video games with my childhood friends, now strewn across the country, and more recently I've taken up game development as a creative outlet.  Less frequently than I'd like, I enjoy back packing and the yearly dirt bike trip to Michigan Upper Peninsula with my father.  Finally with what ever time I have left, I am working on house projects.  Because there are always house projects to be done. 
+In my free time I enjoy video games with my childhood friends, now strewn across the country, and more recently I've taken up game development as a creative outlet.  Less frequently than I'd like, I enjoy back packing and the yearly dirt bike trip to Michigan's Upper Peninsula with my father.  Finally, with what ever time I have left, I am working on house projects.  Because there are always house projects to be done. 
 
 ![Kyle and Lindsay](./assets/LindsayKyleIsleRoyal.png){ align=right width="350" loading=lazy }
 ![Mendle and Ruby](./assets/MendleRuby.png){ align=left width="350" loading=lazy }
