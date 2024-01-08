@@ -19,7 +19,7 @@ Currently, I'm the Lead Senior Software Engineer in the Developer Services group
 
 *Ok, but what does that actually mean?*
 
-In practicality, I wear the hat best fit for the task. Some days I'm neck deep writing code for our next feature, others days I'm architecting the visions for the next generation of tooling for 3M's software teams.  I lead a diverse team to make those visions a reality, and more recently finding ways for those individuals to reach their professional goals.  All while applying the Company's values, as well as my own.  
+In practicality, I wear the hat best fit for the task. Some days I'm neck deep writing code for our next feature, others days I'm architecting the visions for the next generation of tooling for 3M's software teams.  I lead a diverse team to make those visions a reality, and more recently finding ways for those individuals to reach their professional goals.  All while applying the company's values, as well as my own.  
 
 - Everyone can and should write code.
 - Cast users into the pit of success.
