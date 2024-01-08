@@ -5,9 +5,9 @@ Email: garverkr@gmail.com
 
 *I have lots of ideas - they just can't all be bangers.*
 
-![Image title](./assets/me.webp){ align=left width="350" }
-
 ## Hi There!
+
+![Image title](./assets/me.webp){ align=left width="350" }
 
 Frankly, my intention with this page is to serve as a catalyst for a conversation.
 
