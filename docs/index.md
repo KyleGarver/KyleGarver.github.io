@@ -23,7 +23,7 @@ In practicality, I wear the hat best fit for the task. Some days I'm neck deep w
 
 - Everyone can and should write code.
 - Cast users into the pit of success.
-- Use right tool for the job.
+- Use the right tool for the job.
 
 Most recently I've been working to remove friction and accelerate developer teams in 3M.  Each project required that I quickly ramp up on new tools and technologies to then apply them.  The basic patten I follow is to setup a proof of concept, design the product architecture, build the breakdown of stories to be completed, and finally divvy out and guide a team to complete the work.  In 2023 that involved three main solutions:  
 
